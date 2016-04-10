@@ -12,6 +12,9 @@ Installation
 Usage
 ----
 Run:
+      
       msfconsole
+
 Update:
+      
       msfupdate
